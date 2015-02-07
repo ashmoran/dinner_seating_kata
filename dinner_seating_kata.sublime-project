@@ -5,6 +5,7 @@
 			"follow_symlinks": true,
 			"path": ".",
 			"folder_exclude_patterns": [
+				"tmp"
 			],
 			"file_exclude_patterns": [
 				"*.sublime-workspace",
